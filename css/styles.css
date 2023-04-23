@@ -1,0 +1,39 @@
+body{
+    background-color: whitesmoke
+}
+
+/*
+hr {
+    border-style: none;
+    border-top: dotted 4px;
+    border-top-color: grey;
+    border-spacing: 10px;
+    width: 3%; 
+}
+*/
+
+h3 {
+    color: #A084DC;
+    margin-left: 1%;
+}
+
+h1 {
+    color: #A084DC;
+    text-align: center;
+}
+
+img {
+    background-color: grey;
+}
+
+/******************* Class Selectors ***********************/
+.circular {
+    border-radius: 100%;
+}
+
+.horizontalrule {
+    height: 0.7px;
+    background-color: rgb(128, 128, 128);
+    margin-left: 1%;
+    margin-right: 1%;
+}
